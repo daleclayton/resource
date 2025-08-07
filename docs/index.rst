@@ -3,6 +3,12 @@ Ways to Sign In to Your Comcast Email Account – Xfinity Docs Support
 
 Accessing your email shouldn’t be complicated, especially when it comes to your Comcast account. Whether you're a long-time user or new to Xfinity services, knowing how to properly perform a **Comcast email account sign in** is essential for managing communications, billing, and Xfinity account preferences.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Comcast</a>
+   </div>
+
 In this guide, we’ll walk you through all the **ways to sign in to your Comcast email account**, how to troubleshoot common issues, and the best practices for keeping your email secure.
 
 In the modern digital age, email is central to our everyday life. That’s why it’s so important to understand the multiple ways to perform **Comcast email account sign in** from different devices, whether you're on a computer, tablet, or mobile phone.
@@ -156,4 +162,5 @@ Final Thoughts: Keep Your Email Access Smooth and Secure
 There are many ways to perform a successful **Comcast email account sign in**, whether you're using a browser, mobile app, or third-party tool. Bookmark the official login page, keep your password safe, and check your email settings regularly to stay protected.
 
 For ongoing support, always refer to:  
+
 `https://www.xfinity.com/support <https://www.xfinity.com/support>`_

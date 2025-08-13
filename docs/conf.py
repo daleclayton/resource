@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Comcast Resources'
+project = 'Authority-Precomcast'
 copyright = '2025'
-author = 'Bernard Benesh'
+author = 'Jalkis Raik'
 
 release = '1.0'
 
@@ -21,4 +21,5 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
 
